@@ -3,11 +3,12 @@
 Una aplicación de escritorio simple para descargar subtítulos de videos o listas de reproducción de YouTube y guardarlos como archivos `.srt` y `.txt`.
 
 ![Screenshot de la aplicación](screenshot.png)
+![Opción de Descarga de Playlist](screenshot2.png)
 
 ## Características
 
 -   **Interfaz Gráfica Sencilla**: Construida con Flet para una experiencia de usuario limpia y fácil de usar.
--   **Descarga de Videos y Listas de Reproducción**: Pega la URL de un video o una lista de reproducción de YouTube.
+-   **Descarga de Videos y Listas de Reproducción**: Pega la URL de un video o una lista de प्लेलिस्ट de YouTube.
 -   **Opción de Descarga**: Si la URL contiene una lista de reproducción, puedes elegir descargar solo el video actual o la lista completa.
 -   **Conversión a TXT**: Automáticamente genera una versión en texto plano (`.txt`) del subtítulo `.srt` original.
 -   **Organización de Archivos**: Crea una carpeta con el título del video o de la lista de reproducción para mantener los archivos organizados.
@@ -63,4 +64,4 @@ Puedes crear un ejecutable para tu sistema operativo usando PyInstaller.
     ```bash
     pyinstaller srt_txt_downloader.spec
     ```
-    El ejecutable se encontrará en el directorio `dist`.
+    El ejecutable se encontrará en el directorio `dist`

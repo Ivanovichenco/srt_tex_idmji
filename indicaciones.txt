@@ -1,0 +1,6 @@
+Observa la imagen srt_txt.png. Construir esa aplicacion que descarga tanto archivos .srt como archivos .txt de los audios de los videos de               │
+│   youtube. Los descarga en una carpeta con el titulo del video y dentro van los dos archivos tambien con el titulo del video pero con las extensiones       │
+│   .txt y .srt. Estudia los siguiente repositorios paara construir un ejecutable de la aplicacion con una interfaz grafica moderna y agradable.             │
+│   Puedes usar tkinter o flet. Estos son los repositorios en que te debes basar: 1- https://github.com/yt-dlp/yt-dlp  2-                                    │
+│   https://github.com/unrud/video-downloader?tab=readme-ov-file 3- https://github.com/Ivanovichenco/youtube_subtitle_downloader                             │
+│   4-https://sed.sourceforge.io/#docs   

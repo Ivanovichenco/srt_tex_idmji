@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SRT/TXT Downloader
+Comment=Download SRT and TXT subtitles from YouTube videos
+Exec=/home/ivan/Documentos/Projects/Gemini-cli/srt_tex_idmji/dist/srt_txt_downloader
+Icon=/home/ivan/Documentos/Projects/Gemini-cli/srt_tex_idmji/srt_txt.png
+Terminal=false
+Type=Application
+Categories=Utility;
